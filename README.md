@@ -1,7 +1,7 @@
-- I make music for a game team named Powerly Studios.
+Olá pessoas bonitas! Meu nome é Jullio.
 
-- Twitter:
-  https://twitter.com/pombaterrorista
+Sou compositor e produtor de músicas para jogos.
+
 - Soundcloud:
   https://soundcloud.com/julliot
 - Youtube:
